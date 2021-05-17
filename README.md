@@ -5,6 +5,6 @@
 
 本框架的实际应用，请见[MCTS Gobang](https://gitee.com/freeman449/MCTS-Gobang)。
 
-A MCTS (Monte Carlo Tree Search) framework implemented using C#.
+A MCTS (Monte Carlo Tree Search) framework implemented using C#. The specific evaluation algorithm, simulation algorithm, etc. depend on the application scenario. Users shall implement by themselves.
 
 Please visit [MCTS Gobang](https://gitee.com/freeman449/MCTS-Gobang) for an application case of this framework.
